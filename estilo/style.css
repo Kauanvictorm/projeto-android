@@ -46,7 +46,7 @@ a.externo::after {
     content: '\00A0\1F517';
 }
 header {
-    background: linear-gradient(to bottom, #3ddc84, #063d1e);
+    background: linear-gradient(to bottom,  #2fa866, #063d1e);
     min-height: 150px;
     padding-top: 40px;
 }
@@ -67,7 +67,7 @@ header > p {
     padding-right: 10px;
     padding-left: 10px;
     margin: auto;
-    margin-bottom: 30px;
+    padding-bottom: 50px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.267);
 }
 nav {
