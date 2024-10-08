@@ -63,8 +63,11 @@ header > p {
     font-family:var(--fonte-padrao);
     font-size: 1.2em;
     color: white;
-    text-align: center;
-    padding: 20px;
+    max-width: 600px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin: auto;
+    margin-bottom: 20px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.267);
 }
 nav {
@@ -74,7 +77,7 @@ nav {
     
 }
 nav > a {
-    color: white;
+    color: var(--cor1);
     text-decoration: none;
     padding: 15px;
     border-radius: 5px;
